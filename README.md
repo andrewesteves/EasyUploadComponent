@@ -5,7 +5,7 @@
 <h5>Utilização</h5>
 <p>Uma tabela de notícias e outra de fotos</p>
 <br/>
-<span>Controller</span>
+<h5>Controller</h5>
 <pre>
 <code>
 public $components = array('EasyUpload');
