@@ -10,7 +10,7 @@
  *
  *
  * @copyright     Copyright 2013 Andrew Esteves (http://andrewesteves.com.br)
- * @link          https://github.com/andrewesteves/easycomponent
+ * @link          https://github.com/andrewesteves/EasyUploadComponent
  * @author        Andrew Esteves
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
