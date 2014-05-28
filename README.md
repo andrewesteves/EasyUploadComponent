@@ -1,4 +1,4 @@
-<h4>EasyUploadComponent</h4>
+<h4>CakePHP Component | EasyUploadComponent</h4>
 <p>Componente para upload multiplo de imagens com associação de tabelas do banco</p>
 <span>Componente em desenvolvimento, já supri as necessidades para qual foi desenvolvido, mas ainda não está concluído.</span>
 
